@@ -4,8 +4,8 @@
   "description": "note to introduce audience about docker",
   "main": "index.js",
   "scripts": {
-    "start": "cleaver README.md"
-    "watch": "cleaver watch README.md"
+    "start": "cleaver README.md",
+    "watch": "cleaver watch README.md",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
